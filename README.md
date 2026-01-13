@@ -33,20 +33,6 @@ Final project tentang metodologi desain tim menggunakan HTML.
 ### 📚 [desktop-tutorial](https://github.com/lolipop0221/desktop-tutorial)
 Tutorial pengembangan aplikasi desktop.
 
-## 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lolipop0221&theme=tokyo-night&hide_border=true&bg_color=0D1117)
-
-## 🤝 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lolipop0221)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-
----
-
-<div align="center">
-
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
