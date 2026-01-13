@@ -19,20 +19,6 @@ Saya seorang developer yang sedang belajar dan mengembangkan skill dalam web dev
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
-## 🚀 Featured Projects
-
-### 📱 [project_os](https://github.com/lolipop0221/project_os)
-Project JavaScript untuk pengembangan sistem operasi sederhana.
-
-### 🌐 [web](https://github.com/lolipop0221/web)
-Project web development menggunakan TypeScript.
-
-### 🎨 [FINPRO_TEAM_DESIGN_METHOD](https://github.com/lolipop0221/FINPRO_TEAM_DESIGN_METHOD)
-Final project tentang metodologi desain tim menggunakan HTML.
-
-### 📚 [desktop-tutorial](https://github.com/lolipop0221/desktop-tutorial)
-Tutorial pengembangan aplikasi desktop.
-
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
