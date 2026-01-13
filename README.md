@@ -7,8 +7,6 @@ Saya seorang developer yang sedang belajar dan mengembangkan skill dalam web dev
 - 👀 I'm interested in: Web Development, UI/UX Design, dan teknologi terbaru
 - 🌱 I'm currently learning: TypeScript, JavaScript, HTML/CSS
 - 💞️ I'm looking to collaborate on: Project web development dan open source
-- 📫 How to reach me: [Tambahkan email atau social media Anda]
-- ⚡ Fun fact: [Tambahkan sesuatu yang unik tentang Anda]
 
 ## 💻 Tech Stack
 
