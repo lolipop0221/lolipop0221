@@ -36,8 +36,6 @@ Tutorial pengembangan aplikasi desktop.
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🎯 Profile Views
-![](https://komarev.com/ghpvc/?username=lolipop0221&color=blueviolet&style=flat-square)
 
 **✨ Created with passion by lolipop0221**
 
