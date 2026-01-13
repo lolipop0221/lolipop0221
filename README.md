@@ -18,17 +18,6 @@ Saya seorang developer yang sedang belajar dan mengembangkan skill dalam web dev
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lolipop0221&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lolipop0221&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lolipop0221&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
 
 ## 🚀 Featured Projects
 
